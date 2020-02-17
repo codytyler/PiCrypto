@@ -3,7 +3,7 @@ This is a GitHub Repository linked up with the Developer Chat Section of the Pi 
 
 Report all bugs with a 
 
-Phone Make and Model
+Phone Make and Model/
 Android or IoS version and kernal
 a report of the experienced bug and how it can be recreated
 
