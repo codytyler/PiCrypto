@@ -1,4 +1,4 @@
-# PiCrypto #Pi #cryptocurrency #crypto #currency 
+# PiCrypto # Pi # cryptocurrency # crypto # currency 
 This is a GitHub Repository linked up with the Developer Chat Section of the Pi Crypto Currency app
 
 Report all bugs with a 
